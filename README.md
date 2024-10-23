@@ -2,6 +2,7 @@
 
 A nostalgic Visual Studio Code theme inspired by the classic Windows 98 UI. Bring back the retro look and feel of the 90s to your coding environment, with grey backgrounds, blue accents, and vintage syntax highlighting.
 
+![miku](./images/miku.gif)
 ![Windows 98 Theme Preview](./preview/win98_theme3.png)
 
 ## Features
