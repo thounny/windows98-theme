@@ -3,6 +3,7 @@
   "displayName": "Windows98Theme",
   "description": "A Windows 98 inspired theme for VS Code.",
   "version": "0.0.1",
+  "publisher": "thounny",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -17,5 +18,9 @@
         "path": "./themes/Windows98Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thounny/windows98-theme"
   }
 }
