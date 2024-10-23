@@ -22,5 +22,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/thounny/windows98-theme"
-  }
+  },
+  "icon": "./images/logo.png"
 }
