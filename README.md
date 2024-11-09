@@ -2,7 +2,7 @@
 
 A nostalgic Visual Studio Code theme inspired by the classic Windows 98 UI. Bring back the retro look and feel of the 90s to your coding environment, with grey backgrounds, blue accents, and vintage syntax highlighting.
 
-![miku](./images/miku.gif)
+![miku](./images/miku.gif)  
 ![Windows 98 Theme Preview](./preview/win98_theme3.png)
 
 ## Features
@@ -10,6 +10,7 @@ A nostalgic Visual Studio Code theme inspired by the classic Windows 98 UI. Brin
 - **Retro Look**: Light grey backgrounds, dark borders, and classic blue accents reminiscent of the Windows 98 era.
 - **Custom Syntax Highlighting**: Carefully chosen colors for keywords, strings, variables, and comments to match the vintage aesthetic.
 - **Consistent UI**: Theme applies to all areas of VS Code including the sidebar, activity bar, and status bar.
+- **Dark Mode**: A new dark mode variant for a retro-inspired night-time coding experience.
 
 ## Installation
 
@@ -26,6 +27,18 @@ To preview the theme before installation, you can:
 - Open the folder in VS Code.
 - Press `F5` to run the theme in development mode and try it out in a new window.
 
+## Screenshots
+
+### Light Mode Previews
+![Windows 98 Theme Preview 1](./preview/win98_theme.png)
+![Windows 98 Theme Preview 2](./preview/win98_theme2.png)
+![Windows 98 Theme Preview 3](./preview/win98_theme3.png)
+![Windows 98 Theme Preview 4](./preview/win98_theme4.png)
+
+### Dark Mode Previews
+![Windows 98 Theme Dark Mode Preview 1](./preview/darkmode1.png)
+![Windows 98 Theme Dark Mode Preview 2](./preview/darkmode2.png)
+
 ## Customization
 
 Feel free to fork this repository and modify the theme to suit your own style. You can edit the `theme.json` file in the `themes` folder to adjust the colors of various elements.
@@ -40,15 +53,6 @@ This theme is licensed under the [MIT License](./LICENSE).
 
 ---
 
-### PREVIEW
-
-![Windows 98 Theme Preview 1](./preview/win98_theme.png)
-![Windows 98 Theme Preview 2](./preview/win98_theme2.png)
-![Windows 98 Theme Preview 3](./preview/win98_theme3.png)
-![Windows 98 Theme Preview 4](./preview/win98_theme4.png)
-
----
-
 ## Author
 
 ![Logo](./images/index_dwn.gif)
@@ -60,3 +64,5 @@ Frontend Development Student | Year Up United
 ---
 
 ![miku](./images/miku.gif)
+
+---
